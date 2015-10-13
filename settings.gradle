@@ -1,0 +1,4 @@
+rootProject.name = 'ussd'
+
+include ':libs:ussd-lib', ':apps:ussd-sample', ':apps:ussd-bind'
+
